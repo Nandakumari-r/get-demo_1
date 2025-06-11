@@ -1,8 +1,9 @@
 Ni jathaga nenundali
 Ni kathaga nenundali
-<<<<<<< HEAD
 Ni Swashay nenundali
-=======
 Ni Swashay nenundali
 Ni Thodayi nenundali
->>>>>>> 81b5f325909b570f76af4e412a624b60e41a7376
+Ni jathaga nenundali
+Ni kathaga nenundali
+
+
