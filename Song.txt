@@ -7,4 +7,5 @@ Ni jathaga nenundali
 Ni kathaga nenundali
 Song Name
 Movie Name
+Language Name
 
