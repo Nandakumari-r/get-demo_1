@@ -3,3 +3,12 @@ Ni kathaga nenundali
 Ni Swashay nenundali
 Ni Thodayi nenundali
 
+<<<<<<< HEAD
+=======
+----------------------
+Ni jathaga nenundali
+Ni kathaga nenundali
+Ni Swashay nenundali
+Ni Thodayi nenundali
+----------------------
+>>>>>>> feature
